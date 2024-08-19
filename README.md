@@ -1,4 +1,4 @@
-# Datadog Operator
+# Datadog Operator 
 
 ![badge](https://github.com/DataDog/datadog-operator/actions/workflows/main.yml/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/datadog/datadog-operator)](https://goreportcard.com/report/github.com/datadog/datadog-operator)
