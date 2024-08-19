@@ -16,7 +16,7 @@ The **Datadog Operator** aims to provide a new way of deploying the [Datadog Age
 
 The **Datadog Operator** is [RedHat certified][10] and available on [operatorhub.io][11].
 
-## Datadog Operator vs. Helm chart
+## Datadog Operator vs. Helm chart New
 
 You can also use official [Datadog Helm chart][3] or a DaemonSet to install the Datadog Agent on Kubernetes. However, using the Datadog Operator offers the following advantages:
 
